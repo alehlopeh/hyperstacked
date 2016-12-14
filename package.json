@@ -1,0 +1,10 @@
+{
+  "name": "hyperstacked",
+  "version": "0.0.1",
+  "keywords": [
+    "hyperstacked",
+    "hyper",
+    "terminal"
+  ],
+  "description": "Stacked tabs on the left, like in iTerm2"
+}
